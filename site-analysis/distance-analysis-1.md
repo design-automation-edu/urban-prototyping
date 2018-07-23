@@ -13,15 +13,15 @@ We performed a distance analysis of the site to the MRT stations as follows:
 4. Of all the measured distance, choose the shortest distance and append it onto the grid.
 5. A false-colour image will be generated based on the closeness to MRT.
 
-![Fig. 1: Grid the site](../.gitbook/assets/dist_analysis_grid.png)
+![Fig. 1: Grid the site](./assets/dist_analysis_grid.png)
 
-![Fig. 2: Get the centroid of the site](../.gitbook/assets/dist_analysis_grid_centroid.png)
+![Fig. 2: Get the centroid of the site](./assets/dist_analysis_grid_centroid.png)
 
-![Fig. 3: Measure the distance of each centroid to all the MRT station](../.gitbook/assets/dist_analysis_grid_dist_mrt.png)
+![Fig. 3: Measure the distance of each centroid to all the MRT station](./assets/dist_analysis_grid_dist_mrt.png)
 
-![Fig. 4: Choose the shortest distance and append it onto the gird as an attribute.](../.gitbook/assets/dist_analysis_grid_dist_mrt_shortest%20%281%29.png)
+![Fig. 4: Choose the shortest distance and append it onto the gird as an attribute.](./assets/dist_analysis_grid_dist_mrt_shortest%20%281%29.png)
 
-![Fig. 5: False colour image of the analysis. Red indicating within a 500m distance to MRT.](../.gitbook/assets/dist_analysis_grid_dist_falsecolour%20%281%29.png)
+![Fig. 5: False colour image of the analysis. Red indicating within a 500m distance to MRT.](./assets/dist_analysis_grid_dist_falsecolour%20%281%29.png)
 
 
 

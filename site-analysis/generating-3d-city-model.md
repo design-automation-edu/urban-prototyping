@@ -18,15 +18,15 @@ The procedure for the generation of 3D model is as follows:
 7. Assuming a floor-to-floor height, calculate the building height by multiplying the levels by the floor-to-floor height \(Fig. 4\). 
 8. Extrude the buildings to get the 3D model \(Fig. 5\).  
 
-![Fig. 1: The area of all the plots](../.gitbook/assets/generate3d_plot_area.png)
+![Fig. 1: The area of all the plots](./assets/generate3d_plot_area.png)
 
-![Fig. 2: The GPR of each plot](../.gitbook/assets/generate3d_plot_gpr.png)
+![Fig. 2: The GPR of each plot](./assets/generate3d_plot_gpr.png)
 
-![Fig. 3: Identify building footprint on each plot.](../.gitbook/assets/generate3d_bldg_footprint.png)
+![Fig. 3: Identify building footprint on each plot.](./assets/generate3d_bldg_footprint.png)
 
-![Fig. 4: Calculate the building height of each plot and repeat them for all the plots.](../.gitbook/assets/generate3d_calc.png)
+![Fig. 4: Calculate the building height of each plot and repeat them for all the plots.](./assets/generate3d_calc.png)
 
-![Fig. 5: Generated 3D model of the site](../.gitbook/assets/3d_model%20%281%29.PNG)
+![Fig. 5: Generated 3D model of the site](./assets/3d_model%20%281%29.PNG)
 
 
 

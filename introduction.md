@@ -2,7 +2,7 @@
 
 This book documents a simple urban design example to illustrate the use of computational design methods in an urban design process. The example is used as teaching material for the Urban Prototyping Module taught at National University of Singapore, Architecture Department. The example is located along Dover Road in Singapore. The site is about 75 Ha. The target population for this site is 75,000 residents. The brief is to design a mix-used development consisting of residential, commercial, green and open spaces. Students are required to produce a range of feasible urban design proposals to satisfy the brief. We have divided the design process into three main stages 1\) site analysis 2\) planning concept development and 3\) building typology design. From our experience in design and teaching, the design process is often non-linear, iterative and cyclical. It is more useful to see these stages as related but independent. Designers will often jump from stage to stage during design process. The simple example is used to illustrate such a design process and serves as a guide for the students through their learning. 
 
-![Fig. 1: The site of the project](.gitbook/assets/07_site_annotated.png)
+![Fig. 1: The site of the project](./assets/07_site_annotated.png)
 
 The Urban Prototyping Module teaches computational methods to facilitate the urban design process. In the site analysis stage, we will introduce Geographical Information System \(GIS\) technology to support the use of geospatial data. These data are often unstructured and massive. They have to be manipulated through computational means in order for designers to extract information from them. These information will then contribute to the understanding of the site and context. 
 
