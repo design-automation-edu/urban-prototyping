@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "6"
 before_script:
-  - npm install gitbook
+  - npm install gitbook-cli
   - npm install gitbook-publish
 script: 
   - gitpub
