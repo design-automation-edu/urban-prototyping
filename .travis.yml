@@ -7,7 +7,8 @@ before_script:
 script: 
   - gitpub
 deploy:
+  provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  branch: gh-pages
   target_branch: gh-pages
+  branch: gh-pages
