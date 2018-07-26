@@ -6,9 +6,4 @@ before_script:
   - npm install gitbook-publish@latest
 script: 
   - gitpub
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  target_branch: gh-pages
-  branch: gh-pages
+  - git push "https://${GITHUB_TOKEN}@$github.com/${GITHUB_REPO}.git" gh-pages:gh-pages
