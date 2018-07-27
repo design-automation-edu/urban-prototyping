@@ -8,4 +8,6 @@ script:
   - gitpub
   - git branch
   - git remote -v
-  - git push "https://${GITHUB_TOKEN}@${GITHUB_REPO}" gh-pages:gh-pages > /dev/null 2>&1
+  - git config --global user.email "akshatamohanty@gmail.com"
+  - git config --global user.name "Akshata"
+  - git push "https://${GITHUB_TOKEN}@${GITHUB_REPO}" gh-pages
