@@ -10,4 +10,4 @@ script:
   - git remote -v
   - git config --global user.email "akshatamohanty@gmail.com"
   - git config --global user.name "Akshata"
-  - git push "https://${GITHUB_TOKEN}@${GITHUB_REPO}" gh-pages -f
+  - git push --force "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" gh-pages 
