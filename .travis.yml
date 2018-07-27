@@ -6,5 +6,6 @@ before_script:
   - npm install gitbook-publish@latest
 script: 
   - gitpub
+  - git branch
   - git remote -v
-  - git push origin gh-pages
+  - git push "https://${GITHUB_TOKEN}@${GITHUB_REPO}" gh-pages:gh-pages > /dev/null 2>&1
