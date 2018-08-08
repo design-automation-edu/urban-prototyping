@@ -15,7 +15,10 @@ script:
   - git config --global user.email "akshatamohanty@gmail.com"
   - git config --global user.name "Akshata"
   - gitbook pdf ./ ./published/urban-prototyping.pdf
-  - git add ./published/urban-prototyping.pdf && git commit -m"Published PDF" 
+  - git add ./published/urban-prototyping.pdf
+  - git status
+  - git commit -m"Published PDF" 
+  - git status
   - git push "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" master
   - gitpub
   - git branch
