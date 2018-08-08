@@ -16,9 +16,7 @@ script:
   - git config --global user.name "Akshata"
   - gitbook pdf ./ ./published/urban-prototyping.pdf
   - git add ./published/urban-prototyping.pdf
-  - git status
-  - git commit -m"Published PDF" 
-  - git status
+  - git commit -m"generated-and-published-pdf" 
   - git push --force "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" master
   - gitpub
   - git branch
