@@ -5,9 +5,12 @@ before_script:
   - npm install gitbook-cli
   - npm install gitbook-publish@latest
 script: 
+  - git config --global user.email "akshatamohanty@gmail.com"
+  - git config --global user.name "Akshata"
+  - gitbook pdf ./ ./published/urban-prototyping.pdf
+  - git add ./published/urban-prototyping.pdf && git commit -m"Published PDF" 
+  - git push "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" master
   - gitpub
   - git branch
   - git remote -v
-  - git config --global user.email "akshatamohanty@gmail.com"
-  - git config --global user.name "Akshata"
   - git push --force "https://{USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPO}" gh-pages 
