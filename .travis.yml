@@ -8,7 +8,7 @@ before_script:
   - npm install gitbook-cli
   - npm install gitbook-publish@latest
   - npm install ebook-convert
-  - mv ./ebook-wrapper.sh /usr/local/bin/ebook-convert
+  - sudo cp ./ebook-wrapper.sh /usr/local/bin/ebook-convert
 script: 
   - git config --global user.email "akshatamohanty@gmail.com"
   - git config --global user.name "Akshata"
