@@ -10,6 +10,7 @@ before_script:
   - npm install ebook-convert
   - sudo mv /usr/bin/ebook-convert /usr/bin/ebook-convert2
   - sudo cp ./ebook-wrapper.sh /usr/bin/ebook-convert
+  - sudo chmod +x /usr/bin/ebook-convert
 script: 
   - git config --global user.email "akshatamohanty@gmail.com"
   - git config --global user.name "Akshata"
