@@ -3,6 +3,7 @@ node_js:
   - "6"
 before_install:
   - sudo apt-get install -y calibre
+  - sudo apt-get install xvfb
 before_script:
   - npm install gitbook-cli
   - npm install gitbook-publish@latest
