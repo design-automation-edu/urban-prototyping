@@ -8,6 +8,3 @@
   * [Distance Analysis](site-analysis/distance-analysis-1.md)
 * [Planning Concept Development](planning-concept-development.md)
 * [Building Typology Design](building-typology-design.md)
-* [Hello, World!](test-folder/README.md)
-  * [Hello, World in C!](test-folder/test1.md)
-* [New File](test-outside.md)
