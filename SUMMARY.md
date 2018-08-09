@@ -1,8 +1,4 @@
-# Urban Prototyping 2018
-
-An elective at the [Department of Architecture](https://www.arch.nus.edu.sg), [National University of Singapore](http://www.nus.edu.sg/).
-
-## Table of contents
+# Table of contents
 
 * [Overview](overview.md)
 * [Project Title 1](abraham/introduction.md)
