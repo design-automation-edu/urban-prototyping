@@ -1,4 +1,4 @@
-# Building Typology Design
+# Urban Prototyping 2018
 
 The typology for the site is decided based on its closeness to the MRT station. The sites closer to the MRT station have tower typology, while those further away have courtyard typology \(Fig. 1\). Fig. 2 shows the typology generated based on the assignment. The typology is generated based on the requirement of accommodating 75,000 people. Based on Singapore census data, a household has 3.2 people. Thus, 75,000 people is equivalent to 23,438 households. Usually, each household will have 2 working adults. That would amount to 46,876 working people. The floor space requirement for accommodating these people are each person requires 20m2 of living area and 5m2 of green/open area. Each working person requires 10m2 of office/working space. The population is distributed based on each plot's size. The bigger the plot size, the bigger the population assigned to the plot.
 
