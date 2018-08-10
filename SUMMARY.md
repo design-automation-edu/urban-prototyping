@@ -1,16 +1,10 @@
 # Table of contents
 
-* [Overview](overview.md)
-
-## Projects
-
-* [Project Title 1](abraham/introduction.md)
-  * [Iteration 1](abraham/iteration1.md)
-  * [Iteration 2](abraham/iteration2.md)
-  * [Iteration 3](abraham/iteration3.md)
-  * [Discussion](abraham/discussion.md)
-  
-## Discussion
- 
-* [Conclusions](conclusions.md)
-
+* [A Conceptual Guide to Learning Urban Prototyping](README.md)
+* [Introduction](introduction.md)
+* [Site Analysis](site-analysis/README.md)
+  * [Site Analysis 2D](site-analysis/site-analysis-2d.md)
+  * [Generating 3D City Model](site-analysis/generating-3d-city-model.md)
+  * [Distance Analysis](site-analysis/distance-analysis-1.md)
+* [Planning Concept Development](planning-concept-development.md)
+* [Building Typology Design](building-typology-design.md)
